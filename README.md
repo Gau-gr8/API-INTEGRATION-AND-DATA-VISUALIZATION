@@ -35,4 +35,6 @@ APPLICATIONS:
 4. IoT AND SMART HOMES
 5. NEWS AND MEDIA
 6. ENVIRONMENTAL RESEARCH
-   
+
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/afd2654b-d8d1-44a2-b408-125cf1d42dba)
