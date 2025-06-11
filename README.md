@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTHOSH
                                           
 *DESCRIPTION*:
+
 In this project, I used the OpenWeatherMap API to retrieve real-time weather forecast data for the Ahmedabad city and created visualizations using Python libraries—specifically Matplotlib and Seaborn. The development environment used for this task was Visual Studio Code (VS Code), which provided a clean and efficient platform to write, debug, and execute the code.
 
 TOOLS AND TECHNOLOGIES USED: 
